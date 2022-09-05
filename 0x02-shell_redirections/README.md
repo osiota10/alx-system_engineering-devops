@@ -11,3 +11,4 @@
 10. No more javascript- Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. Don't just count your directories, make your directories count - Write a script that counts the number of directories and sub-directories in the current directory.
 12. What’s new - Create a script that displays the 10 newest files in the current directory.
+13. Being unique is better than being perfect - Create a script that takes a list of words as input and prints only words that appear exactly once. 1.Input format: One line, one word 2.Output format: One line, one word 3.Words should be sorted
