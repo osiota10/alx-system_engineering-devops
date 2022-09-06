@@ -15,3 +15,4 @@ Task 0 - Create a script that creates an alias; Name: ls and Value: rm *
 14. Decimal to Hexadecimal - Write a script that converts a number from base 10 to base 16.
 15. Everyone is a proponent of strong encryption - Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 16. The eggs of the brood need to be an odd number - Write a script that prints every other line from the input, starting with the first line.
+17. I'm an instant star. Just add water and stir - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result: WATER is in base water, STIR is in base stir and The result should be in base bestchol
