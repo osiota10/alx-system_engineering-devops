@@ -24,4 +24,3 @@ echo "server {
 }" > default
 sudo mv -f default /etc/nginx/sites-available/default
 sudo service nginx restart
-
